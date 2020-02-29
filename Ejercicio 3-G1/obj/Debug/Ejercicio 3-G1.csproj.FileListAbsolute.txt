@@ -1,0 +1,9 @@
+C:\Users\pro\source\repos\Ejercicio 3-G1\bin\Debug\Ejercicio 3-G1.exe.config
+C:\Users\pro\source\repos\Ejercicio 3-G1\bin\Debug\Ejercicio 3-G1.exe
+C:\Users\pro\source\repos\Ejercicio 3-G1\bin\Debug\Ejercicio 3-G1.pdb
+C:\Users\pro\source\repos\Ejercicio 3-G1\obj\Debug\Ejercicio 3-G1.csprojAssemblyReference.cache
+C:\Users\pro\source\repos\Ejercicio 3-G1\obj\Debug\Ejercicio_3_G1.Form1.resources
+C:\Users\pro\source\repos\Ejercicio 3-G1\obj\Debug\Ejercicio_3_G1.Properties.Resources.resources
+C:\Users\pro\source\repos\Ejercicio 3-G1\obj\Debug\Ejercicio 3-G1.csproj.GenerateResource.cache
+C:\Users\pro\source\repos\Ejercicio 3-G1\obj\Debug\Ejercicio 3-G1.exe
+C:\Users\pro\source\repos\Ejercicio 3-G1\obj\Debug\Ejercicio 3-G1.pdb
