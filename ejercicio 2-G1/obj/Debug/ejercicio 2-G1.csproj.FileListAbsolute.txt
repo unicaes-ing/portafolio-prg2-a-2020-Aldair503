@@ -1,0 +1,18 @@
+C:\Users\pro\source\repos\ejercicio 2-G1\bin\Debug\ejercicio 2-G1.exe.config
+C:\Users\pro\source\repos\ejercicio 2-G1\bin\Debug\ejercicio 2-G1.exe
+C:\Users\pro\source\repos\ejercicio 2-G1\bin\Debug\ejercicio 2-G1.pdb
+C:\Users\pro\source\repos\ejercicio 2-G1\obj\Debug\ejercicio 2-G1.csprojAssemblyReference.cache
+C:\Users\pro\source\repos\ejercicio 2-G1\obj\Debug\ejercicio_2_G1.Form1.resources
+C:\Users\pro\source\repos\ejercicio 2-G1\obj\Debug\ejercicio_2_G1.Properties.Resources.resources
+C:\Users\pro\source\repos\ejercicio 2-G1\obj\Debug\ejercicio 2-G1.csproj.GenerateResource.cache
+C:\Users\pro\source\repos\ejercicio 2-G1\obj\Debug\ejercicio 2-G1.exe
+C:\Users\pro\source\repos\ejercicio 2-G1\obj\Debug\ejercicio 2-G1.pdb
+C:\Users\pro\source\repos\portafolio-prg2-a-2020-Aldair503\ejercicio 2-G1\bin\Debug\ejercicio 2-G1.exe.config
+C:\Users\pro\source\repos\portafolio-prg2-a-2020-Aldair503\ejercicio 2-G1\bin\Debug\ejercicio 2-G1.exe
+C:\Users\pro\source\repos\portafolio-prg2-a-2020-Aldair503\ejercicio 2-G1\bin\Debug\ejercicio 2-G1.pdb
+C:\Users\pro\source\repos\portafolio-prg2-a-2020-Aldair503\ejercicio 2-G1\obj\Debug\ejercicio 2-G1.csprojAssemblyReference.cache
+C:\Users\pro\source\repos\portafolio-prg2-a-2020-Aldair503\ejercicio 2-G1\obj\Debug\ejercicio_2_G1.Form1.resources
+C:\Users\pro\source\repos\portafolio-prg2-a-2020-Aldair503\ejercicio 2-G1\obj\Debug\ejercicio_2_G1.Properties.Resources.resources
+C:\Users\pro\source\repos\portafolio-prg2-a-2020-Aldair503\ejercicio 2-G1\obj\Debug\ejercicio 2-G1.csproj.GenerateResource.cache
+C:\Users\pro\source\repos\portafolio-prg2-a-2020-Aldair503\ejercicio 2-G1\obj\Debug\ejercicio 2-G1.exe
+C:\Users\pro\source\repos\portafolio-prg2-a-2020-Aldair503\ejercicio 2-G1\obj\Debug\ejercicio 2-G1.pdb
