@@ -1,0 +1,9 @@
+C:\Users\pro\source\repos\portafolio-prg2-a-2020-Aldair503\Ejercicio 1-G3\bin\Debug\Ejercicio 1-G3.exe.config
+C:\Users\pro\source\repos\portafolio-prg2-a-2020-Aldair503\Ejercicio 1-G3\bin\Debug\Ejercicio 1-G3.exe
+C:\Users\pro\source\repos\portafolio-prg2-a-2020-Aldair503\Ejercicio 1-G3\bin\Debug\Ejercicio 1-G3.pdb
+C:\Users\pro\source\repos\portafolio-prg2-a-2020-Aldair503\Ejercicio 1-G3\obj\Debug\Ejercicio 1-G3.csprojAssemblyReference.cache
+C:\Users\pro\source\repos\portafolio-prg2-a-2020-Aldair503\Ejercicio 1-G3\obj\Debug\Ejercicio_1_G3.Form1.resources
+C:\Users\pro\source\repos\portafolio-prg2-a-2020-Aldair503\Ejercicio 1-G3\obj\Debug\Ejercicio_1_G3.Properties.Resources.resources
+C:\Users\pro\source\repos\portafolio-prg2-a-2020-Aldair503\Ejercicio 1-G3\obj\Debug\Ejercicio 1-G3.csproj.GenerateResource.cache
+C:\Users\pro\source\repos\portafolio-prg2-a-2020-Aldair503\Ejercicio 1-G3\obj\Debug\Ejercicio 1-G3.exe
+C:\Users\pro\source\repos\portafolio-prg2-a-2020-Aldair503\Ejercicio 1-G3\obj\Debug\Ejercicio 1-G3.pdb
