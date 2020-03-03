@@ -1,0 +1,9 @@
+C:\Users\pro\source\repos\portafolio-prg2-a-2020-Aldair503\Ejercicio 4-G4\bin\Debug\Ejercicio 4-G4.exe.config
+C:\Users\pro\source\repos\portafolio-prg2-a-2020-Aldair503\Ejercicio 4-G4\bin\Debug\Ejercicio 4-G4.exe
+C:\Users\pro\source\repos\portafolio-prg2-a-2020-Aldair503\Ejercicio 4-G4\bin\Debug\Ejercicio 4-G4.pdb
+C:\Users\pro\source\repos\portafolio-prg2-a-2020-Aldair503\Ejercicio 4-G4\obj\Debug\Ejercicio 4-G4.csprojAssemblyReference.cache
+C:\Users\pro\source\repos\portafolio-prg2-a-2020-Aldair503\Ejercicio 4-G4\obj\Debug\Ejercicio_4_G4.Form1.resources
+C:\Users\pro\source\repos\portafolio-prg2-a-2020-Aldair503\Ejercicio 4-G4\obj\Debug\Ejercicio_4_G4.Properties.Resources.resources
+C:\Users\pro\source\repos\portafolio-prg2-a-2020-Aldair503\Ejercicio 4-G4\obj\Debug\Ejercicio 4-G4.csproj.GenerateResource.cache
+C:\Users\pro\source\repos\portafolio-prg2-a-2020-Aldair503\Ejercicio 4-G4\obj\Debug\Ejercicio 4-G4.exe
+C:\Users\pro\source\repos\portafolio-prg2-a-2020-Aldair503\Ejercicio 4-G4\obj\Debug\Ejercicio 4-G4.pdb
