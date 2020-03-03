@@ -70,5 +70,6 @@ namespace Ejercicio_1_G1
             textBox3.Clear();
             textBox4.Clear();
         }
+
     }
 }
